@@ -1,0 +1,16 @@
+//Hello Programmers! This program is to check the equivalence of the two numbers..(C)
+
+#include<stdio.h>
+//to check the equivalence of two numbers
+main(){
+  int m,n;
+  printf("/Enter the two numbers:");
+  scanf("%d%d",&m,&n);
+  if((m-n)==0)
+    printf("\n Two numbers are equal");
+  else
+    printf("\n 2 numbers are not equal");
+  getch();
+}
+
+//Thank you :)
