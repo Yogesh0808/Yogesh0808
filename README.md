@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogesh0808
 -- FullStack (MERN)
-- 🌱 I’m currently learning Python,UX Design,SEO
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently learning Python,Javascript, Node.js, UX Design
+- More Way to Go 🚀
 - 📫 Reach me out on IG: @born_wild_bad_/@basket_of_codes.
 
 <!---
